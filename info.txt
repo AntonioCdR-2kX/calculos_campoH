@@ -1,0 +1,2 @@
+Recopilación de los scripts que analizan las 5 simulaciones.
+Link de github: https://github.com/AntonioCdR-2kX/calculos_campoH.git
